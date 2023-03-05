@@ -5,7 +5,7 @@ The approach used is as follows,
 - We performed watermark detection and drew contours and deleted these parts of the image.
 - We then used deep-fill v2 pretrained model to fill these deleted images.
 
-##Deepfill v2
+## Deepfill v2
 
 DeepFill v2 is a state-of-the-art image inpainting model that uses deep learning techniques to complete missing or corrupted parts of an image. It is based on a generative adversarial network (GAN) architecture that consists of two neural networks: a generator and a discriminator.
 
