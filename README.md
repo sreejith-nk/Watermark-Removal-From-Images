@@ -3,7 +3,7 @@ This repository contains the methodology utilized for the submission of the seco
 
 The approach used is as follows,
 - We performed watermark detection and drew contours and deleted these parts of the image.
-- We then used deep-fill v2 pretrained model to fill these deleted images.
+- We then used deep-fill v2 pretrained model to fill the blank part images.
 
 ## Deepfill v2
 
